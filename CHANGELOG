@@ -1,0 +1,23 @@
+0.2.2 kevinmtrowbridge
+  fix: Update text in input textfield as the date and time controls
+       are moved.
+
+0.2.1 milesich
+  fix: datepicker wont close when user selects a date
+
+0.2.0 milesich
+  new: 12h & 24h time
+  new: sliders now supports increments
+  new: populate an alternate field with time
+  fix: incorect parsing time
+
+0.1.2 milesich
+  fix: keep same height as datepicker
+  fix: don't reset time when changing months
+  fix: leave input field unchanged when not selecting date or time
+
+0.1.1 milesich
+  fix: can't select date when input field is empty and datepicker is closed without selecting date
+
+0.1.0 milesich
+  initial release
