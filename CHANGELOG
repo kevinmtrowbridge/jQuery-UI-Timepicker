@@ -1,6 +1,7 @@
 0.2.2 kevinmtrowbridge
   fix: Update text in input textfield as the date and time controls
        are moved.
+  edit: correct whitespace with auto-formatting tool ...
 
 0.2.1 milesich
   fix: datepicker wont close when user selects a date
